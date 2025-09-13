@@ -5,4 +5,4 @@ Quotes app
 ![screenshot](screenshot.jpg)
 
 ## Download
-[Download (تحميل)](Quotes.apk)
+[Download (تحميل)](https://github.com/haithamaouati/Quotes/raw/refs/heads/main/Quotes.apk)
